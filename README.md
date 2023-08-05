@@ -16,5 +16,8 @@ This repository comprises some of the most trending and free Generative AI and L
 
 7. [Coursera Prompt Engineering Course](https://www.coursera.org/learn/prompt-engineering/home/week/1)
 
+
+[Best Prompt Engineering Courses list](https://beebom.com/best-prompt-engineering-courses/amp/)
+
    
  
