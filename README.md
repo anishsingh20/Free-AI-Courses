@@ -11,5 +11,6 @@ This repository comprises some of the most trending and free Generative AI and L
 4. [DeepLearning.ai Courses list](https://www.deeplearning.ai/courses/)
 
 5. [Google's introductory course on Generative AI](https://www.cloudskillsboost.google/course_templates/536)
-6. 
+
+6. [LearnPrompting for Free](https://learnprompting.org/)
  
