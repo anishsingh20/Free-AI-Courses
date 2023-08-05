@@ -13,4 +13,8 @@ This repository comprises some of the most trending and free Generative AI and L
 5. [Google's introductory course on Generative AI](https://www.cloudskillsboost.google/course_templates/536)
 
 6. [LearnPrompting for Free](https://learnprompting.org/)
+
+7. [Coursera Prompt Engineering Course](https://www.coursera.org/learn/prompt-engineering/home/week/1)
+
+   
  
